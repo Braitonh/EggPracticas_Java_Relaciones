@@ -1,0 +1,19 @@
+
+package ejercicio2;
+
+
+public class Main {
+
+   
+    public static void main(String[] args) {
+        
+//      
+        Servicios juego = new Servicios();
+        
+        juego.procesoPrincipal();
+
+                
+       
+    }
+    
+}
